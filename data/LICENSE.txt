@@ -1,7 +1,7 @@
-FrCORE (c) and SvCORE (c) by Liina Repo, Valtteri Skantsi, Samuel Rönnqvist,
+FreCORE (c) and SweCORE (c) by Liina Repo, Valtteri Skantsi, Samuel Rönnqvist,
 Saara Hellström, Miika Oinonen, Anna Salmela, Douglas Biber, Jesse Egbert,
 Sampo Pyysalo, and Veronika Laippala.
 
-FrCORE and SvCORE annotations are licensed under a
+FreCORE and SweCORE annotations are licensed under a
 Creative Commons Attribution 4.0 International License,
 see http://creativecommons.org/licenses/by/4.0/
