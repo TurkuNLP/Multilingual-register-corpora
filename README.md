@@ -1,6 +1,6 @@
 # Multilingual-register-corpora
 This repository contains the French Corpus of Online REgisters (FreCORE) and the Swedish Corpus of Online REgisters (SweCORE) data and code introduced in the paper 
-'Beyond the English Web: Zero-Shot Cross-Lingual and Lightweight Monolingual Classification of Registers'.
+['Beyond the English Web: Zero-Shot Cross-Lingual and Lightweight Monolingual Classification of Registers'](https://arxiv.org/abs/2102.07396).
 
 The FreCORE and SweCORE annotations are licensed under Creative Commons Attribution (CC BY). Please cite:
 
