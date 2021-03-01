@@ -16,3 +16,5 @@ The FreCORE and SweCORE annotations are released under Creative Commons Attribut
 ```
 
 The modeling code used in the paper is available [here](https://github.com/TurkuNLP/multilingual-register-labeling).
+
+For FinCORE, a similar dataset in Finnish, please see https://github.com/TurkuNLP/FinCORE.
